@@ -1,7 +1,6 @@
-library(plyr)
-
 ##starts with the assumption that this dataset is available in the working directory
 ##in an unzipped UCI HAR Dataset folder and plyr package is installed
+library(plyr)
 
 ##extract variables which have the word mean and std
 raw_colData <- read.table("UCI HAR Dataset/features.txt", stringsAsFactors = FALSE)

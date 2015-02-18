@@ -69,7 +69,6 @@
      * fBodyBodyAccJerkMag-mean()
      * fBodyBodyGyroMag-mean()
      * fBodyBodyGyroJerkMag-mean()
-    
 * **xx-std()-xx**: extraced measurements on the standard deviation from the raw dataset
      * tBodyAcc-std()-X
      * tBodyAcc-std()-Y

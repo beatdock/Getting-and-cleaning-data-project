@@ -1,10 +1,8 @@
 # Getting-and-cleaning-data-project
 ##Project Description
-
-The purpose of this project is to collect, work with and clean raw data set and transform it to a tidy data set.
+The purpose of this project is to collect, work with and clean the 'Human Activity Recognition Using Smartphones Data set' created by UCI and transform it to a tidy data set.
 
 ##What you find in this repository
-
 * **UCI HAR Dataset.zip**: Compressed raw data set
 * **CodeBook.md**: Information about raw and tidy data set
 * **run_anlaysis.R**: R script to transform raw data set to a tidy one

@@ -70,6 +70,14 @@
 #Tidy data
 
 ##Information
+* This tidy data is the data which has measurements on mean and std splited in groups by activity and subject and calculated about the column means for every group.
+
+* **The process to creat tidy data**
+    1. Extract the columns on mean and std from `X-data` file
+    2. Merge extracted data with `Y-data` file(activity data) and change values in `Y-data` to descriptive activity name
+    3. Merge `subject-data` file to above data
+    4. Find the mean value of columns for each combination of activity and subject
+    5. Carry out this process for both `train` and `test` dataset and merge them
 
 ##Variables
 * **Subject**: The identifier of the subjects 1~30

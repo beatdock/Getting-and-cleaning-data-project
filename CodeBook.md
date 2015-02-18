@@ -3,7 +3,7 @@
 ##Information
 * This dataset was collected with a group of 30 volunteers. Each person performed six activities wearing a smartphone. Using its embedded accelerometer and gyroscope, 3-axial linear acceleration and 3-axial angular velocity datas were captured. The obtained datas have been randomly partitioned into two sets where 70% of the volunteers was selected for generating the training data and 30% the test data. 
 
-* See the README.txt file in the "UCI HAR Dataset.zip" for further details.
+* See the `README.txt` file in the `UCI HAR Dataset.zip` for further details.
 
 ##Included files
 >
@@ -22,7 +22,7 @@
 
 >-README.txt
 
-* See the README.txt file in the "UCI HAR Dataset.zip" for further details.
+* See the `README.txt` file in the `UCI HAR Dataset.zip` for further details.
 
 ##Variables
 * The time domain signals come form the accelerometer and gyroscope 3-axial
@@ -64,8 +64,8 @@
      * kurtosis(): kurtosis of the frequency domain signal
      * bandsEnergy(): Energy of a frequency interval within the 64 bins of the FFT of each window.
      * angle(): Angle between to vectors.
-* See the "feauters_info.txt" file in the "UCI HAR Dataset.zip" for further details.
-* You can see the complete list of vairables in the "features.txt" file in the "UCI HAR Dataset.zip"
+* See the `feauters_info.txt` file in the `UCI HAR Dataset.zip` for further details.
+* You can see the complete list of vairables in the `features.txt` file in the `UCI HAR Dataset.zip`
 
 #Tidy data
 

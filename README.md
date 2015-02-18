@@ -14,5 +14,5 @@ The purpose of this project is to collect, work with and clean raw data set and 
 1. Download "UCI HAR Dataset.zip"(compressed raw data set)
 2. Unzip the file in the directory which you want to work in
 3. Open R console and set the working directory to the directory which you unzip the file in
-4. Source "run_analisys.R"
+4. Source "run_analisys.R" (it requires the plyr package)
 5. The R script file creats "tidy_data.txt" in your working directory

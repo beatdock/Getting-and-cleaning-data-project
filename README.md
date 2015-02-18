@@ -1,6 +1,6 @@
 # Getting-and-cleaning-data-project
 ##Project Description
-The purpose of this project is to collect, work with and clean the 'Human Activity Recognition Using Smartphones Data set' created by UCI and transform it to a tidy data set.
+The purpose of this project is to collect, work with and clean the `Human Activity Recognition Using Smartphones Data set` created by UCI and transform it to a tidy data set.
 
 ##What you find in this repository
 * **UCI HAR Dataset.zip**: Compressed raw data set
